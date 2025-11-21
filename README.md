@@ -35,7 +35,9 @@ Copy include/sb_buffer.h and src/sb_buffer.c to your project.
 
 Include the header:
 
-inicio_codigo c #include "sb_buffer.h" fim_codigo
+```c 
+ #include "sb_buffer.h"
+```
 
 ## 🚀 Quick Start
 
