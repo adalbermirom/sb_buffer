@@ -1,0 +1,11 @@
+# Ignorar arquivos objeto compilados
+*.o
+
+# Ignorar executáveis (Linux/Mac e Windows)
+test
+test.exe
+*.out
+
+# Ignorar arquivos de sistema ou IDEs
+.DS_Store
+.vscode/
